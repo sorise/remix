@@ -7,7 +7,8 @@ Python的生态环境和一些基础知识的一些介绍，例如 **虚拟环�
 
 - [Python 环境生态](./env.md) 
 - [Python Pip 的使用](./command.md)
-- [Python 虚拟环境 ](./virtualenv.md)
+- [Python venv 虚拟环境](./virtualenv.md)
+- [Python conda 虚拟环境](./contents/py_enviroment_conda.md)
 - [Python PyCharm 快捷键](./pycharm-shortcut-key.md) 
 
 

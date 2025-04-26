@@ -5,13 +5,13 @@
 -----
 **目录：**
 
-- Python 01. 语法基本知识入门 [**-->**](./content/001PyIntroductionBasic.md)
+-  [Python 语法基本知识入门](./content/001PyIntroductionBasic.md)
 - Python 02. 变量和基本数据类型  [**-->**](./content/002PyVariablesDataStructureType.md)
 - Python 03.  运算符和控制流程 [-->](./content/003PyOperatorsAndControlFlow.md)
 
 
 
-时间: [2022/10/20 **19:10:27**]
+**时间**: `2024/4/26 13:00:00`
 
 
 

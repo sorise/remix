@@ -4,10 +4,9 @@ Python 已经成为各个行业进行科学研究的必备工具！ 人生苦短
 
 **目录：** 
 
-- [Python 环境和必备基础知识](./env) 
-- [Python 语言基础](./grammar)
-- [Python 科学计算必知道的库](#) 
-
+- [环境和必备基础知识](./env) 
+- [语言基础](./grammar)
+- [科学计算必知道的库](#) 
 
 
 ------
@@ -15,6 +14,5 @@ Numpy 矩阵计算、Pandas 数据处理和分析、Matplotlib 画图工具、Sc
 
 **链接:**
 
-- [Python 3.10.8 文档 https://docs.python.org/zh-cn/3/](https://docs.python.org/zh-cn/3/)
-- [Python 各模块浏览](https://docs.python.org/zh-cn/3/library/index.html)
+- [中文文档](https://docs.python.org/zh-cn/3/) 、[各模块浏览](https://docs.python.org/zh-cn/3/library/index.html)
 
